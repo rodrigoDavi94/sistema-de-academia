@@ -1,0 +1,8 @@
+# Navegue até a pasta do projeto
+cd sistema-academia-java
+
+# Crie o arquivo pom.xml
+touch pom.xml
+
+# Edite o arquivo
+nano pom.xml  # ou use seu editor preferido
